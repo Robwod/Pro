@@ -11,6 +11,8 @@ Last Updated: [3 Jan, 2025]
 - Your data is used solely to provide Roqate features
 - We do not sell or share your data with third parties
 - Data collection is limited to essential extension functions
+- We use your countries name to see where our extension is being used
+
 
 3. Security
 - We implement industry-standard security measures
